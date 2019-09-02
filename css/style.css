@@ -1,0 +1,31 @@
+
+body{
+	background: red;
+}
+
+div{
+	height: 30px;
+	width: 100%;
+	border: black 1px solid;
+	border-radius: 15px;
+	margin:5px;
+}
+
+.porcent{
+	/*to use "ColorPicker just press
+	ctrl+shift+c*/
+	background: #0C549E;  
+}
+
+.hsl{
+	background: hsl(240,50%,20%);
+}
+
+.hsltrans{
+	background: hsla(180,50%,50%,20%);
+}
+
+.rgbtrans{
+	background:rgba(100%,100%,100%,0);
+
+}
